@@ -1,2 +1,2 @@
 # labhsort_backend
-Stock Tracker
+simple_stock_tracker
